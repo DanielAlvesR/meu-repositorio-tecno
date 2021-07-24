@@ -1,5 +1,3 @@
 # Meu Primeiro Repositório
 
-Aula de GIT\
-
-teste
+Aula de GIT
